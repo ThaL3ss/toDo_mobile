@@ -1,6 +1,5 @@
-// app/index.jsx
-import React, { useState } from 'react';
-import { SafeAreaView, StatusBar, View, Text, StyleSheet } from 'react-native';
+import { useState } from 'react';
+import { SafeAreaView, StatusBar, StyleSheet, Text, View } from 'react-native';
 import TaskInput from './components/TaskInput';
 import TaskList from './components/TaskList';
 import Theme from './styles/theme';

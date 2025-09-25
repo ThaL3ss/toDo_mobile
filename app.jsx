@@ -1,4 +1,3 @@
-// App.jsx
 import React from 'react';
 import { SafeAreaView, StatusBar, View, Text, StyleSheet } from 'react-native';
 import TaskInput from './src/components/TaskInput.jsx';
